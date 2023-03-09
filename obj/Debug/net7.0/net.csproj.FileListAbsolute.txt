@@ -1,0 +1,15 @@
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/net.csproj.AssemblyReference.cache
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/net.AssemblyInfoInputs.cache
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/net.AssemblyInfo.cs
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/net.csproj.CoreCompileInputs.cache
+/Users/Yuki/Documents/GitHub/net/bin/Debug/net7.0/net
+/Users/Yuki/Documents/GitHub/net/bin/Debug/net7.0/net.deps.json
+/Users/Yuki/Documents/GitHub/net/bin/Debug/net7.0/net.runtimeconfig.json
+/Users/Yuki/Documents/GitHub/net/bin/Debug/net7.0/net.dll
+/Users/Yuki/Documents/GitHub/net/bin/Debug/net7.0/net.pdb
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/net.dll
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/refint/net.dll
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/net.pdb
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/net.genruntimeconfig.cache
+/Users/Yuki/Documents/GitHub/net/obj/Debug/net7.0/ref/net.dll
